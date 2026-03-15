@@ -1,1 +1,2 @@
 This is the master branch.
+New line in the master branch.
