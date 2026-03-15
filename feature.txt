@@ -1,1 +1,2 @@
 This is the feature branch.
+New line to the feature branch.
