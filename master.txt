@@ -1,4 +1,0 @@
-This is the master branch.
-Feature branch updated.
-New line in the master branch.
-Master branch updated.
